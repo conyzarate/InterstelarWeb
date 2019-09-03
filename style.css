@@ -1,0 +1,65 @@
+body {
+    background: url(https://i.ibb.co/93S5VJk/32042-Convertido.png) no-repeat center top;
+    background-attachment: fixed;
+    overflow: scroll;
+    width: 100%;
+     height: 100;
+}
+
+img{
+    display:block;
+    margin:auto;
+    width:30%;
+    }
+
+    #facebook { 
+        margin: 0px;
+        border: none;
+        color: white;
+        cursor: pointer;
+        font-size: 20px;
+        padding: 15px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        background-color: #353B66;
+        -webkit-transition-duration: 0.8s;
+        transition-duration: 0.8s;
+        border-radius: 2cm;   
+    }
+
+    #instagram  {
+
+        margin: 0px;
+        border: none;
+        color: white;
+        cursor: pointer;
+        font-size: 20px;
+        padding: 15px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        background-color: #2D3459;
+        -webkit-transition-duration: 0.8s;
+        transition-duration: 0.8s;
+        border-radius: 2cm;
+        margin-left: 2em;  
+    }
+
+    #buttons {
+        display: flex; 
+        justify-content: center;
+        margin: 0 10px;
+    }
+    p { 
+        color: #2D3459;
+        font-size: 1.8em;
+        text-align: center;
+        font-family: 'Bree Serif', serif;
+        margin-top: 20 px 10px;
+    }
+
+    /* footer  {
+        background:#8F86D8;
+        font-size: 2.5em;
+    } */
